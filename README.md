@@ -3,9 +3,6 @@ components:
 Header
 Notes
 Footer 
-about
-contentarea
-contact
 
 
 a keeperapp is used to keep a track on task to be done 
