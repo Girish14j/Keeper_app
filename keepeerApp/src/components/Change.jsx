@@ -16,5 +16,3 @@ function handleChange(event){
  );
 }
 export default Change;
-
-
